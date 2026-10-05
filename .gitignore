@@ -1,0 +1,79 @@
+# ============================
+# LensesinFocus - Git Ignore
+# Projetos de áudio, design e multimídia
+# ============================
+
+# --- Arquivos de sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Pastas temporárias ---
+temp/
+tmp/
+cache/
+*.cache
+*.tmp
+
+# --- Arquivos grandes de áudio ---
+*.wav
+*.aiff
+*.aif
+*.flac
+*.ogg
+*.mp3
+*.aac
+
+# --- Arquivos de projeto de DAW (pesados) ---
+*.als
+*.flp
+*.logicx
+*.cpr
+*.ptx
+
+# --- Renderizações e exportações ---
+Exports/
+Renders/
+Bounces/
+Mixdowns/
+
+# --- Arquivos de vídeo ---
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# --- Arquivos de imagem pesados ---
+*.psd
+*.tiff
+*.tif
+*.xcf
+*.ai
+*.eps
+
+# --- Pastas de programas ---
+__MACOSX/
+node_modules/
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
+
+# --- Backups ---
+*.bak
+*.old
+*.backup
+
+# --- Arquivos de compressão ---
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# --- Arquivos gerados automaticamente ---
+*.swp
+*.swo
+*.orig
