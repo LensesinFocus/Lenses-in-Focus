@@ -1,24 +1,23 @@
-# 🌌 Lenses in Focus  
-Exploração criativa de ambientes sonoros, visuais e texturas digitais.
+# 🎨 Visual — Composições e Ambientes Digitais
 
-## 📁 Estrutura do Projeto
+Este diretório reúne elementos visuais criados para o universo **Lenses in Focus**.  
+Aqui você encontra composições, texturas, estudos de cor e experimentações digitais.
 
-### 🎧 /audio  
-Ambientes sonoros, soundscapes e texturas auditivas.
+## 📁 Conteúdos
+- **Composições visuais** — peças únicas criadas para atmosferas específicas  
+- **Texturas digitais** — materiais visuais para sobreposição e ambientação  
+- **Estudos de cor** — paletas e experimentos cromáticos  
+- **Elementos abstratos** — formas, ruídos visuais e arte generativa
 
-### 🎨 /visual  
-Composições visuais, texturas digitais e design ambiental.
+## 🎯 Objetivo
+Criar ambientes visuais que dialogam com áudio, texturas e presets, formando experiências imersivas.
 
-### 🧩 /textures  
-Camadas visuais, materiais digitais e elementos para ambientes imersivos.
-
-### 🎛️ /presets  
-Ferramentas criativas, presets de áudio e vídeo.
-
-### 📁 /projects  
-Projetos completos combinando áudio, visual, texturas e design ambiental.
+## 🛠️ Como usar
+- Combine com elementos de `/audio` para criar peças audiovisuais  
+- Utilize texturas de `/textures` para enriquecer composições  
+- Integre com presets de `/presets` para criar novos estilos
 
 ---
 
-## ✨ Sobre o Universo  
-**Lenses in Focus** é um espaço experimental para criar atmosferas, explorar estética digital e desenvolver experiências audiovisuais.
+© Lenses in Focus — Visual Division
+
